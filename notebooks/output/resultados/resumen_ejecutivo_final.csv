@@ -1,0 +1,10 @@
+Sección,Valor
+Datos,"86,936 pacientes diabéticos"
+Modelo,Red Bayesiana con 10 variables
+Rendimiento,AUC-ROC: 0.788
+Factor de Riesgo 1,Glucosa descontrolada (+35% riesgo)
+Factor de Riesgo 2,Edad anciana (+25% riesgo)
+Factor de Riesgo 3,Colesterol alto (+20% riesgo)
+Puno - Casos,"1,981 pacientes"
+Puno - Complicaciones,55.5%
+Recomendación Principal,Implementar control glucémico intensivo

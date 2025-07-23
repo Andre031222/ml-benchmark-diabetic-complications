@@ -1,0 +1,11 @@
+Variable,Tipo,Valores_Unicos,Valores_Faltantes,Valores_Posibles
+Edad_cat,object,4,0,"Anciano, Adulto_Mayor, Adulto, Joven"
+Sexo,object,2,0,"F, M"
+Tipo_DM,object,5,0,"Tipo_2, Otras_Especificadas, No_Especificada, Tipo_1, Asociada_Desnutricion"
+Departamento,object,24,0,24 valores únicos
+Servicio_Hospitalario,object,39,0,39 valores únicos
+Mes_Muestra,object,10,0,"202410, 202409, 202411, 202408, 202407, 202405, 202406, 202404, 202403, 202402"
+Subgrupo_Histo,object,6,0,"Sin_Complicacion, Otras_Complicaciones, Complicacion_Neurologica, Complicacion_Renal, Cetoacidosis, Sin_Especificar"
+Glucosa_cat,object,4,0,"Diabetes_Descontrolada, Prediabetes, Normal, Hipoglucemia"
+Colesterol_cat,object,3,0,"Deseable, Limite_Alto, Alto"
+Complicacion,int64,2,0,"0, 1"
