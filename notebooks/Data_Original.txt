@@ -2,8 +2,7 @@
 
 Los archivos de datos son demasiado grandes para ser subidos a GitHub. Puedes descargarlos desde Google Drive:
 
-**[Descargar los datos](https://drive.google.com/drive/folders/1ki6Ka69AKVQz0eA7oo3dqibYyJBRyMbS?usp=drive_link)**
-
+[Descargar los datos](https://drive.google.com/drive/folders/1ki6Ka69AKVQz0eA7oo3dqibYyJBRyMbS?usp=drive_link)
 ## Archivos:
-- **Dataset_ExamenesLaboratorio_ConsultaExterna_PatologíasRelacionadas_Diabetes_202001_202404.csv**: Datos clínicos y de laboratorio de pacientes con diabetes.
+- Dataset_ExamenesLaboratorio_ConsultaExterna_PatologíasRelacionadas_Diabetes_202001_202404.csv: Datos clínicos y de laboratorio de pacientes con diabetes.
 
